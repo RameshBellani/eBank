@@ -1,0 +1,15 @@
+.container-not{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.not-img{
+    height: 400px;
+    width: 600px;
+}
+
+.heading-not{
+    font-family: 'Roboto';
+}
